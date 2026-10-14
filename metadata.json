@@ -1,0 +1,6 @@
+{
+  "name": "HydroPulse - Urban Drainage & Flash Waterlogging Telemetry",
+  "description": "Smart city early-warning system integrating edge IoT storm drain telemetry with Gemini Multimodal Vision traffic camera analysis to predict flash waterlogging 20–40 minutes before arterial submersion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
